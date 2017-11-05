@@ -1,0 +1,6 @@
+Book/*
+.DS_Store
+**/.idea/*
+*.txt
+*.jpg
+*.csv
